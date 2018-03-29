@@ -14,7 +14,7 @@ public class XmlContainer : MonoBehaviour {
 	void Awake () {
 		instance = this;
 
-		Full_Dance = parseFile("Move");
+		Full_Dance = parseFile("Basic");
 		
 	}
 	
