@@ -1,0 +1,85 @@
+<ThaiDance>
+  <Attribute>
+    
+  <Measure num ="0" beat ="4" bpm ="60">
+    
+    <Body part ="left_support" start ="0" end ="1">
+      <Direction>forward</Direction>
+    </Body>
+    
+    <Body part ="right_support" start ="1" end ="2">
+      <Direction>forward</Direction>
+    </Body>
+
+    <Body part ="left_support" start ="2" end ="3">
+      <Direction>forward</Direction>
+    </Body>
+    
+    <Body part ="right_support" start ="3" end ="4">
+      <Direction>forward</Direction>
+    </Body>
+  
+  </Measure>
+  
+  <Measure num ="1" beat ="4" bpm ="60">
+    
+    <Body part ="left_support" start ="0" end ="1">
+      <Direction>backward</Direction>
+    </Body>
+  
+    <Body part ="right_support" start ="1" end ="2">
+      <Direction>backward</Direction>
+    </Body>
+
+    <Body part ="left_support" start ="2" end ="3">
+      <Direction>backward</Direction>
+    </Body>
+    
+    <Body part ="right_support" start ="3" end ="4">
+      <Direction>backward</Direction>
+    </Body>
+  
+  </Measure>
+  
+  <Measure num ="2" beat ="4" bpm ="60">
+    
+    <Body part ="left_support" start ="0" end ="1">
+      <Direction>left</Direction>
+    </Body>
+  
+    <Body part ="right_support" start ="1" end ="2">
+      <Direction>left</Direction>
+    </Body>
+
+    <Body part ="left_support" start ="2" end ="3">
+      <Direction>left</Direction>
+    </Body>
+    
+    <Body part ="right_support" start ="3" end ="4">
+      <Direction>left</Direction>
+    </Body>
+  
+  </Measure>
+  
+  <Measure num ="3" beat ="4" bpm ="60">
+    
+    <Body part ="left_support" start ="0" end ="1">
+      <Direction>right</Direction>
+    </Body>
+  
+    <Body part ="right_support" start ="1" end ="2">
+      <Direction>right</Direction>
+    </Body>
+
+    <Body part ="left_support" start ="2" end ="3">
+      <Direction>right</Direction>
+    </Body>
+    
+    <Body part ="right_support" start ="3" end ="4">
+      <Direction>right</Direction>
+    </Body>
+  
+  </Measure>
+  
+  </Attribute>
+</ThaiDance>
